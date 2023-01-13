@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nnchi
+- 👋 Hi, I’m @nainingchi
 - 👀 I’m interested in agriculture, sustainability and policy analysis
 - 🌱 I’m currently learning data analysis in Python and R
 - 📫 www.linkedin.com/in/nainingchi
