@@ -1,6 +1,6 @@
 ## 👋 Hi there, I am Nai Ning!
 
-- 🌱 I’m currently working at Bayer as a Senior Pipeline Enablement Associate, continuously immersing myself in various learning opportunities to grow myself!
+- 🌱 I’m currently working at Bayer as a Senior Pipeline Enablement Associate.
 - 📖 Attending Georgia Tech for Master of Science in Analytics.
 - 👀 I’m interested in data analytics and its application in agriculture and sustainability.
 - 📫 How to reach me: www.linkedin.com/in/nainingchi
